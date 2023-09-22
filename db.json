@@ -1,27 +1,51 @@
 { "videos" : [
-    {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
-    },
-    {
-        "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
-    },
-    {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
-    },
-    {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-    }
-]
+		{
+			"id": 1,
+			"titulo": "John Wick 4: Baba Yaga",
+			"capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4JYoz2k_khn3rpi2IDzFJRLFeX_EtQfr_RmnZyEtmnWYSPnzwdq6WN2FNRf9x7JQhrxDrfVU1yDOIfcYtPEhGTy3fAFhaCzEcrC6Zwr7ctvNGIMau82KhxClrVOY_U53tYVqoYp9UfLHe4s6OoHnAX_oSBfFU8LI7l2cipZ_A2CsbPbkySBGBVMYJog/s3000/capa-filme-2278231.jpg",
+			"link": "https://www.youtube.com/embed/gZtmzT9Wgrw?si=ljsLuCoODpbdXHdW"
+		},
+		{
+			"id": 2,
+			"titulo": "O Pacto",
+			"capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Tgjqoi4DSTWPV8LkOjwKq4B1Z4iPjLfXdYzztkM9Fi24snf-",
+			"link": "https://www.youtube.com/embed/cK56ntmWwBQ?si=bguRQknZKvG2rCYF"
+		},
+		{
+			"id": 3,
+			"titulo": "Super Mario Bros. - O Filme",
+			"capa": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F694xkdmft9ga1.jpg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D06587394fa886d6c8ab7ff283d76b7d80a6968ac",
+			"link": "https://www.youtube.com/embed/Cb4WV4aXBpk?si=-eQEtKAOnPZBH91c"
+		},
+		{
+			"id": 4,
+			"titulo": "Dungeons & Dragons: Honra Entre Rebeldes",
+			"capa": "https://www.claquete.com.br/fotos/filmes/poster/11029_medio.jpg",
+			"link": "https://www.youtube.com/embed/4ej5yjOqBMI?si=v-kZRvV213T8LdVw"
+		},
+		{
+			"id": 5,
+			"titulo": "Babilônia",
+			"capa": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7IVK5Utrydt8RZqMcU1T91WT78xRtLTg51jEcsrTSaiHiQSgH",
+			"link": "https://www.youtube.com/embed/RGaRfUtTJFc?si=ih4S4AFPBxc-gFhJ"
+		},
+		{
+			"id": 6,
+			"titulo": "The Flash",
+			"capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bZDHaMzRqHvd1vhZ03ciz3n1xhRCOExVJFlhZb2qakiL1QW5",
+			"link": "https://www.youtube.com/embed/Flo-U9hSjO4?si=wYgak0o8BikRlmrb"
+		},
+		{
+			"id": 7,
+			"titulo": "Frio nos Ossos",
+			"capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbpXNajRA-mXcGRV0dzxRoQHvrY5qBlBHnrLODdfmaRq5C5awq",
+			"link": "https://www.youtube.com/embed/4cDFC5AJuxo?si=_TpZuWuDBkfOISSP"
+		},
+		{
+			"id": 8,
+			"titulo": "O Pior Vizinho do Mundo",
+			"capa": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnoA9V-B1lj_sGDgXCIAUi2o2P-NKnLIz5c4kPIeUMByC8dWOX",
+			"link": "https://www.youtube.com/embed/l0fvgSBUBek?si=mXm7QSnTxS_rpri9"
+		}
+	]
 }
