@@ -1,0 +1,11 @@
+:root {
+	--fonte: "Montserrat", sans-serif;
+	--branco: #f0f0f0;
+	--preto: #000000;
+	--cinza: #e2e2e2;
+}
+
+body {
+	margin: 0;
+	font-family: var(--fonte);
+}
